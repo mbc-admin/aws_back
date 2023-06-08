@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "rzEsfd6wufiZ7f",
+    "database": "beat_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "rzEsfd6wufiZ7f",
+    "database": "beat_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "rzEsfd6wufiZ7f",
+    "database": "beat_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
